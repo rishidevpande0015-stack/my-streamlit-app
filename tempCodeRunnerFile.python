@@ -1,0 +1,8 @@
+cse={
+    "mohit":"computer network python c++",
+    "rohit":"python data structure c++",
+    "ron":"nil" 
+}
+print(cse["mohit"])
+print(cse["rohit"])
+print(cse["ron"])
